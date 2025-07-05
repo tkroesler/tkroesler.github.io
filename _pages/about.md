@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 I graduated from MIT with my bachelor's degree in electrical engineering in 2025.
-I'm currently working towards my master's degree in electrical engineering and computer science.
+I'm sticking around for another year to work towards a
+master's degree in electrical engineering and computer science.
