@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "ES.1802: Multivariable Calculus"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "undergraduate subject"
+permalink: /teaching/multivariable-calculus
+venue: "MIT, Experimental Study Group"
+date: 2022-09-01
+location: "Cambridge, Mass."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as a teaching assistant (TA) for ES.1802,
+the Experimental Study Group's offering of MIT's multivariable calculus subject for first-year undergraduates,
+from September 2022 through May 2024.
 
 Heading 1
 ======
